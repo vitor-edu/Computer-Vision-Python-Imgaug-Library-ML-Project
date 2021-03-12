@@ -11,6 +11,11 @@ https://imgaug.readthedocs.io/en/latest/
 ##### augmentation_imgaug.ipynb
 
 Usarei algumas das funções disponíveis da biblioteca,  para alteração da imagem original.
+
+Usamos um arquivo XML onde se encontra os parametros do label da imagem
+
+######![Screenshot from 2021-03-12 14-36-56](https://user-images.githubusercontent.com/70338213/110977172-9bcd4a00-8340-11eb-8fd1-1bea1e9aac22.png)
+
 ##### BoundingBoxesOnImage: 
 A função  BoundingBoxesOnImage é responsável por inserir os parametros posicional do label na imagem. 
 ##### ![img8](https://user-images.githubusercontent.com/70338213/110975162-1fd20280-833e-11eb-9d44-e8680b477233.png)

@@ -8,7 +8,10 @@ https://imgaug.readthedocs.io/en/latest/
 - bag.jpg
 - revolver.jpeg
 
-##### augmentation_imgaug.ipynb
+##### 1 arquivo - augmentation_imgaug.ipynb
+
+Usarei algumas das funções disponíveis da biblioteca,  para alteração da imagem original.
+
 - ElasticTransformation
 - Flipud
 - GammaContrast
@@ -16,8 +19,6 @@ https://imgaug.readthedocs.io/en/latest/
 - Affineshear
 - Affinetranslatepercent
 - Affinerotate
-
-Usarei algumas das funções disponíveis da biblioteca,  para alteração da imagem original.
 
 ###### Usamos um arquivo XML onde se encontra os parametros do label da imagem
 

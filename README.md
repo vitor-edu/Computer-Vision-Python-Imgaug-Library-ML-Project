@@ -11,5 +11,6 @@ https://imgaug.readthedocs.io/en/latest/
 ##### augmentation_imgaug.ipynb
 
 Usarei algumas das funções disponíveis da biblioteca,  para alteração da imagem original.
-##### BoundingBoxesOnImage: A função  BoundingBoxesOnImage é responsável por inserir os parametros posicional do label na imagem. 
+##### BoundingBoxesOnImage: 
+A função  BoundingBoxesOnImage é responsável por inserir os parametros posicional do label na imagem. 
 ##### ![img8](https://user-images.githubusercontent.com/70338213/110975162-1fd20280-833e-11eb-9d44-e8680b477233.png)

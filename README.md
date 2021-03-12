@@ -16,6 +16,8 @@ A função  BoundingBoxesOnImage é responsável por inserir os parametros posic
 ##### ![img8](https://user-images.githubusercontent.com/70338213/110975162-1fd20280-833e-11eb-9d44-e8680b477233.png)
 
 Exemplos de  funções de alteração de imagem:
+
+
 ![img5](https://user-images.githubusercontent.com/70338213/110975980-1dbc7380-833f-11eb-945b-1e5b2cddaa14.png)
 ![img1](https://user-images.githubusercontent.com/70338213/110976031-29a83580-833f-11eb-99ed-2c56418720b7.png)
 ![img6](https://user-images.githubusercontent.com/70338213/110976349-8c013600-833f-11eb-8633-f5911ca23387.png)
